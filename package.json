@@ -4,6 +4,7 @@
   "description": "Localisation file for ag-grid - polish language.",
   "main": "ag-grid-locale-pl.js",
   "scripts": {
+    "publish": "npm publish --access public"
   },
   "keywords": ["ag-grid-locale", "ag-grid-locale-pl"],
   "author": "Paweł Pieczonka",
