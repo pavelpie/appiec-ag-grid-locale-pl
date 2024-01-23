@@ -7,5 +7,6 @@
   },
   "keywords": ["ag-grid-locale", "ag-grid-locale-pl"],
   "author": "Paweł Pieczonka",
-  "license": "MIT"
+  "license": "MIT",
+  "private": false
 }
