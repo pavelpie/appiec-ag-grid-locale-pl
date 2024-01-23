@@ -1,0 +1,12 @@
+{
+  "name": "@appiec/ag-grid-locale-pl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ag-grid-locale-pl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paweł",
+  "license": "MIT"
+}
