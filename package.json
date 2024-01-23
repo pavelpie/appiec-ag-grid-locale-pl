@@ -4,9 +4,8 @@
   "description": "",
   "main": "ag-grid-locale-pl.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Paweł",
+  "keywords": ["ag-grid-locale", "ag-grid-locale-pl"],
+  "author": "Paweł Pieczonka",
   "license": "MIT"
 }
