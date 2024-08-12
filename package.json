@@ -1,6 +1,6 @@
 {
   "name": "@appiec/ag-grid-locale-pl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Localisation file for ag-grid - polish language.",
   "main": "ag-grid-locale-pl.js",
   "scripts": {
